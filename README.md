@@ -19,7 +19,7 @@ To get a local copy of the TO-DO List App up and running, follow these simple st
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/VinayMalyala/To-Do-List-App.git
    ```
 
 2. **Open the index.html file** in your preferred web browser:
